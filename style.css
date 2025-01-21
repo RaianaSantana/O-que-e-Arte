@@ -1,0 +1,130 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+VN:wght@100..400&display=swap');   
+        
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    text-align: center;
+    background-color: black;
+    padding: 20px;
+    color: white;
+    
+}
+
+header > p {
+    font-size: 1.7em;
+}
+
+header > p > a {
+    color: white;
+    text-decoration: none;
+    font-family: "Playwrite VN", serif;
+   
+
+}
+
+header > p > a:hover {
+    color: white;
+    text-decoration: underline;
+    font-family: "Playwrite VN", serif;
+   
+
+}
+
+
+h1 {
+    font-family: "Shadows Into Light", serif;
+    font-size: 4em;
+    margin-bottom: 20px;
+    
+}
+
+span {
+    font-family: "Shadows Into Light", serif;
+    color: red;
+}
+
+
+
+section {
+    margin: 40px 0px 20px 20px ;
+}
+
+p {
+    font-size: 1.5em;
+    font-weight: bold;
+    font-family: "Playwrite VN", serif;
+}
+
+.imagem > p {
+    color: white;
+    border-radius: 15px;
+    background-color: rgba(0, 0, 0, 0.356);
+    padding: 5px;
+    text-shadow: 1px 8px 15px black;
+   
+   
+
+}
+
+
+
+#img0 {
+    margin: 15px 0px;
+    padding: 20px;
+    background-size: cover;
+    background-image: url("musica.gif");
+}
+
+#img1 {
+    margin: 0px;
+    padding: 20px;
+    background-size: cover;
+    background-image: url("kit-retro.gif");
+    background-repeat: no-repeat;
+  
+}
+
+#img2 {
+    margin: 0px;
+    padding: 20px;
+    background-size: cover;
+    background-image: url("paisagem.gif");
+    background-repeat: no-repeat;
+  
+}
+
+#img-header {
+    width: 180px;
+    
+}
+
+footer > a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+footer > a:hover { 
+    text-decoration: underline;
+    
+}
+
+footer {
+    margin-top: 45px;
+    padding: 15px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+#voce {
+    font-family: "Playwrite VN", serif;
+
+}
