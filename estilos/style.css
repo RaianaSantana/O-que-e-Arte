@@ -20,11 +20,12 @@ header {
 }
 
 header > p {
-    font-size: 1.7em;
+    font-size: 1em;
 }
 
 header > p > a {
     color: white;
+    font-family: 1em;
     text-decoration: none;
     font-family: "Playwrite VN", serif;
    
